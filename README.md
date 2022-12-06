@@ -19,6 +19,6 @@ source venv/bin/activate
 ```
 
 3. rode o requirements.txt:
-``
+```
 pip install -r requirements.txt
 ```
