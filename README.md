@@ -1,4 +1,4 @@
-# M5 - PDF Generate
+# PDF Generate
 
 ## Instalação dos pacotes
 
