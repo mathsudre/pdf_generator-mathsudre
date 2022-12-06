@@ -22,3 +22,11 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+4. para rodar o script, digite no bash:
+```
+python main.py
+//
+python3 main.py
+```
+
