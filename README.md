@@ -1,4 +1,4 @@
-# PDF Generate
+# PDF Generator
 
 ## Instalação dos pacotes
 
